@@ -1,0 +1,11 @@
+scikit-learn==1.2.2
+pandas==2.0.1
+fastapi==0.88.0
+uvicorn==0.20.0
+joblib==1.2.0
+category-encoders==2.6.2
+numpy==1.23.1
+xgboost==2.0.0
+prophet==1.1.4
+seaborn==0.13.0
+
